@@ -13,10 +13,11 @@ M.Sc. Quantitative Finance candidate at the National University of Singapore. I 
 
 | Project | What it shows |
 | --- | --- |
+| [Singapore Equity Factor Research](https://github.com/IvyZhang04/singapore-equity-factor-research) | NUS group research on Singapore equities: price/volume and reversal factors, transaction costs and robustness checks. |
 | [Analyst Report Bias](https://github.com/IvyZhang04/analyst-report-bias) | A reproducible text-and-panel-data workflow for studying conflicts of interest and analyst recommendations. |
 | [Trade Policy Exposure and Analyst Reports](https://github.com/IvyZhang04/trade-policy-analyst-forecasts) | A firm-quarter research pipeline linking policy exposure to analyst attention and forecast accuracy. |
 
-Both repositories use deterministic synthetic data. They demonstrate the workflows without releasing licensed data, report text or source-specific identifiers.
+The first two empirical research repositories use deterministic synthetic data to demonstrate workflows without releasing licensed data, report text or source-specific identifiers. The factor project documents coursework research; its raw authorised vendor data is excluded.
 
 ## Background
 
